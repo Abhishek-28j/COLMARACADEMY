@@ -1,0 +1,19 @@
+body{
+			background-color: #F0F8FF;
+		}
+		a{
+			margin-right: 16px;
+			
+		}
+
+		.images{
+			padding-top: 32px;
+			padding-bottom: 32px;
+			padding-left: 24px;
+			width: 60%;
+		}
+		video{
+			width: 60%;
+			margin-top: 32px;
+			padding-left: 24px;
+		}
